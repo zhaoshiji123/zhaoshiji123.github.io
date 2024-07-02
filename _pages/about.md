@@ -26,7 +26,7 @@ My research interest includes computer vision, deep learning and adversarial rob
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 Two papers on Adversarial Robustness are accepted to TPAMI 2024.
+- *2024.06*: &nbsp;🎉🎉 Two papers on Adversarial Robustness are accepted to TPAMI 2024.
 - *2023.11*: I will serve as a reviewer for CVPR 2024.
 
 # 📝 Publications 
