@@ -30,7 +30,7 @@ My research interest includes computer vision, deep learning and adversarial rob
 - *2023.11*: I will serve as a reviewer for CVPR 2024.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/advsticker2.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/tpami_bmtard.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Mitigating Accuracy-Robustness Trade-Off Via Balanced Multi-Teacher Adversarial Distillation]((https://arxiv.org/abs/2306.16170))
 
@@ -42,7 +42,7 @@ _IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/advsticker2.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/tpami_awnet.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Revisiting the Trade-Off Between Accuracy and Robustness Via Weight Distribution of Filters]((https://arxiv.org/abs/2306.03430))
 
@@ -54,7 +54,7 @@ _IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/advsticker2.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/tmm2023.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Boosting adversarial transferability with learnable patch-wise masks]((https://arxiv.org/abs/2306.15931))
 
@@ -66,7 +66,7 @@ _IEEE Transactions on Multimedia (**TMM**), 2023_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/advsticker2.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/eccv2022.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Enhanced accuracy and robustness via multi-teacher adversarial distillation]
 
