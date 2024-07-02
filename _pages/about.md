@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D student in the Institute of Artificial Intelligence, Beihang University (BUAA), China. Before that, I received eceived his B.S. degree in the School of Computer Science and Engineering, Beihang University (BUAA), China. 
+I am a Ph.D student in the Institute of Artificial Intelligence, Beihang University (BUAA), China. Before that, I received his B.S. degree in the School of Computer Science and Engineering, Beihang University (BUAA), China. 
 
 My research interest includes computer vision, deep learning and adversarial robustness in machine learning. 
 
