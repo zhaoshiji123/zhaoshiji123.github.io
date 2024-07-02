@@ -38,6 +38,6 @@ My research interest includes computer vision, deep learning and adversarial rob
 
 _IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024_
 
-📃[**Paper**](https://arxiv.org/pdf/2306.16170)     💾[**Code**](https://github.com/zhaoshiji123/MTARD-extension)     (<span style="color:red;">Valse2022 Spotlight</span>)
+📃[**Paper**](https://arxiv.org/pdf/2306.16170)     💾[**Code**](https://github.com/zhaoshiji123/MTARD-extension)    
 </div>
 </div>
