@@ -54,7 +54,7 @@ _IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/tmm2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/tmm2023.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Boosting adversarial transferability with learnable patch-wise masks]((https://arxiv.org/abs/2306.15931))
 
@@ -66,7 +66,7 @@ _IEEE Transactions on Multimedia (**TMM**), 2023_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/eccv2022.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/eccv2022.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Enhanced accuracy and robustness via multi-teacher adversarial distillation]
 
