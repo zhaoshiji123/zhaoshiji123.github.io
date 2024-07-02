@@ -41,3 +41,39 @@ _IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 📃[**Paper**](https://arxiv.org/pdf/2306.16170)     💾[**Code**](https://github.com/zhaoshiji123/MTARD-extension)    
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/advsticker2.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Revisiting the Trade-Off Between Accuracy and Robustness Via Weight Distribution of Filters]((https://arxiv.org/abs/2306.03430))
+
+Xingxing Wei (Supervisor), **<u>Shiji Zhao</u>**, and Bo Li.
+
+_IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024_
+
+📃[**Paper**](https://arxiv.org/pdf/2306.03430)     💾[**Code**](https://github.com/zhaoshiji123/AW-Net)    
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/advsticker2.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Boosting adversarial transferability with learnable patch-wise masks]((https://arxiv.org/abs/2306.15931))
+
+Xingxing Wei (Supervisor), and **<u>Shiji Zhao</u>**.
+
+_IEEE Transactions on Multimedia (**TMM**), 2023_
+
+📃[**Paper**](https://arxiv.org/pdf/2306.15931)     💾[**Code**](https://github.com/zhaoshiji123/LPM)    
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/advsticker2.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Enhanced accuracy and robustness via multi-teacher adversarial distillation]
+
+**<u>Shiji Zhao</u>**, Jie Yu, zhenlong Sun, Bo Zhang, Xingxing Wei (Supervisor).
+
+_European Conference on Computer Vision (**ECCV**), 2022_
+
+📃[**Paper**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640577.pdf)     💾[**Code**](https://github.com/zhaoshiji123/MTARD)    
+</div>
+</div>
