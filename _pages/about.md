@@ -21,3 +21,23 @@ I am a Ph.D student in the Institute of Artificial Intelligence, Beihang Univers
 
 My research interest includes computer vision, deep learning and adversarial robustness in machine learning. 
 
+# 💻 Experience
+- *2022.09 - present*, PHD. Student, the Institute of Artificial Intelligence, Beihang University (BUAA). 
+
+
+# 🔥 News
+- *2024.03*: &nbsp;🎉🎉 Two papers on Adversarial Robustness are accepted to TPAMI 2024.
+- *2023.11*: I will serve as a reviewer for CVPR 2024.
+
+# 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/advsticker2.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Mitigating Accuracy-Robustness Trade-Off Via Balanced Multi-Teacher Adversarial Distillation]((https://arxiv.org/abs/2306.16170))
+
+**<u>Shiji Zhao</u>**,  Xizhe Wang, and Xingxing Wei (Supervisor).
+
+_IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024_
+
+📃[**Paper**](https://arxiv.org/pdf/2306.16170)     💾[**Code**](https://github.com/zhaoshiji123/MTARD-extension)     (<span style="color:red;">Valse2022 Spotlight</span>)
+</div>
+</div>
