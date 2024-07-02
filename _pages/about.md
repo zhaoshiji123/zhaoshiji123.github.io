@@ -22,7 +22,7 @@ I am a Ph.D student in the Institute of Artificial Intelligence, Beihang Univers
 My research interest includes computer vision, deep learning and adversarial robustness in machine learning. 
 
 # 💻 Experience
-- *2022.09 - present*, PHD. Student, the Institute of Artificial Intelligence, Beihang University (BUAA). 
+- *2022.09 - present*, Ph.D Student, the Institute of Artificial Intelligence, Beihang University (BUAA). 
 
 
 # 🔥 News
