@@ -28,10 +28,24 @@ My research interest includes computer vision, deep learning and adversarial rob
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 a paper on Adversarial Robustness are accepted to NeurIPS 2024.
 - *2024.06*: &nbsp;🎉🎉 Two papers on Adversarial Robustness are accepted to TPAMI 2024.
 - *2023.11*: I will serve as a reviewer for CVPR 2024.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/ABSLD.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Improving Adversarial Robust Fairness via Anti-Bias Soft Label Distillation](([https://arxiv.org/abs/2306.16170](https://arxiv.org/pdf/2312.05508)))
+
+**<u>Shiji Zhao</u>**,  Xizhe Wang, Ranjie Duan and Xingxing Wei (Supervisor).
+
+_IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024_
+
+📃[**Paper**](https://arxiv.org/pdf/2306.16170)     💾[**Code**](https://github.com/zhaoshiji123/MTARD-extension)    
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/tpami_bmtard.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Mitigating Accuracy-Robustness Trade-Off Via Balanced Multi-Teacher Adversarial Distillation]((https://arxiv.org/abs/2306.16170))
