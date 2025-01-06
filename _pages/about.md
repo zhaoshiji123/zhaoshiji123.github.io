@@ -87,7 +87,7 @@ _IEEE Transactions on Multimedia (**TMM**), 2023_
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/eccv2022.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Enhanced accuracy and robustness via multi-teacher adversarial distillation]
+[Enhanced accuracy and robustness via multi-teacher adversarial distillation]((https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640577.pdf))
 
 **<u>Shiji Zhao</u>**, Jie Yu, zhenlong Sun, Bo Zhang, Xingxing Wei (Supervisor).
 
