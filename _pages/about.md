@@ -28,9 +28,11 @@ My research interest includes computer vision, deep learning and adversarial rob
 
 
 # 🔥 News
+- *2025.02*: I will serve as a reviewer for ICCV 2025.
 - *2025.01*: &nbsp;🎉🎉 I have been selected for Young Talent Support Project Doctoral Program of the China Association for Science and Technology.
 - *2024.12*: &nbsp;🎉🎉 I have been awarded the highest honor for students (the Shen Yuan Medal) at Beihang University.
-- *2023.11*: I will serve as a reviewer for CVPR 2025.
+- *2024.12*: I will serve as a reviewer for TNNLS.
+- *2024.11*: I will serve as a reviewer for CVPR 2025.
 - *2024.09*: &nbsp;🎉🎉 a paper on Adversarial Robustness are accepted to NeurIPS 2024.
 - *2024.06*: &nbsp;🎉🎉 Two papers on Adversarial Robustness are accepted to TPAMI 2024.
 - *2023.11*: I will serve as a reviewer for CVPR 2024.
