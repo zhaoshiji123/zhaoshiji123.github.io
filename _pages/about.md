@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D student in the Institute of Artificial Intelligence, Beihang University (BUAA), China, and my PhD supervisor is [Xingxing Wei](https://sites.google.com/site/xingxingwei1988/). Before that, I received B.S. degree in the School of Computer Science and Engineering, Beihang University (BUAA), China. 
 
-My research interest includes computer vision, deep learning and adversarial robustness in machine learning. 
+My research interest includes, MLLMs safety, knowledge distillation, adversarial attack, adversarial robustness in machine learning. 
 
 # 💻 Experience
 - *2022.09 - present*, Ph.D Student, the Institute of Artificial Intelligence, Beihang University (BUAA). 
@@ -28,6 +28,7 @@ My research interest includes computer vision, deep learning and adversarial rob
 
 
 # 🔥 News
+- *2025.04*: I will serve as a reviewer for NeurIPS 2025.
 - *2025.02*: I will serve as a reviewer for ICCV 2025.
 - *2025.01*: &nbsp;🎉🎉 I have been selected for Young Talent Support Project Doctoral Program of the China Association for Science and Technology.
 - *2024.12*: &nbsp;🎉🎉 I have been awarded the highest honor for students (the Shen Yuan Medal) at Beihang University.
