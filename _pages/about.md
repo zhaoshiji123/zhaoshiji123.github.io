@@ -28,6 +28,7 @@ My research interest includes, MLLMs safety, knowledge distillation, adversarial
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 two papers on MLLMs safety are accepted to ICCV 2025.
 - *2025.04*: I will serve as a reviewer for NeurIPS 2025.
 - *2025.02*: I will serve as a reviewer for ICCV 2025.
 - *2025.01*: &nbsp;🎉🎉 I have been selected for Young Talent Support Project Doctoral Program of the China Association for Science and Technology.
