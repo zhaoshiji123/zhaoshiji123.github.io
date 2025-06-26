@@ -41,7 +41,7 @@ My research interest includes, LLMs and MLLMs safety, knowledge distillation, ad
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ABSLD.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/SI-Attack.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency]((https://arxiv.org/abs/2501.04931))
 
