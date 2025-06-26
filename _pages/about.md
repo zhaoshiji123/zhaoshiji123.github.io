@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D student in the Institute of Artificial Intelligence, Beihang University (BUAA), China, and my PhD supervisor is [Xingxing Wei](https://sites.google.com/site/xingxingwei1988/). Before that, I received B.S. degree in the School of Computer Science and Engineering, Beihang University (BUAA), China. 
 
-My research interest includes, MLLMs safety, knowledge distillation, adversarial attack, adversarial robustness in machine learning. 
+My research interest includes, LLMs and MLLMs safety, knowledge distillation, adversarial attack, adversarial robustness in machine learning. 
 
 # 💻 Experience
 - *2022.09 - present*, Ph.D Student, the Institute of Artificial Intelligence, Beihang University (BUAA). 
@@ -40,6 +40,19 @@ My research interest includes, MLLMs safety, knowledge distillation, adversarial
 - *2023.11*: I will serve as a reviewer for CVPR 2024.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ABSLD.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency]((https://arxiv.org/abs/2501.04931))
+
+**<u>Shiji Zhao</u>**,  Ranjie Duan, Fengxiang Wang, Chi Chen, Caixin Kang, Shouwei Ruan, Jialing Tao, YueFeng Chen, Hui Xue, Xingxing Wei (Supervisor).
+
+_International Conference on Computer Vision (**ICCV**), 2025_
+
+📃[**Paper**](https://arxiv.org/abs/2501.04931)     💾[**Code**](https://github.com/zhaoshiji123/SI-Attack)    
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/ABSLD.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
