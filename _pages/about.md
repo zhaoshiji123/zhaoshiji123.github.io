@@ -28,6 +28,7 @@ My research interest includes, LLMs and MLLMs safety, knowledge distillation, ad
 
 
 # 🔥 News
+- *2025.09*: I will serve as a reviewer for ICLR 2026 and CVPR 2026.
 - *2025.06*: &nbsp;🎉🎉 two papers on MLLMs safety are accepted to ICCV 2025.
 - *2025.04*: I will serve as a reviewer for NeurIPS 2025.
 - *2025.02*: I will serve as a reviewer for ICCV 2025.
@@ -35,6 +36,7 @@ My research interest includes, LLMs and MLLMs safety, knowledge distillation, ad
 - *2024.12*: &nbsp;🎉🎉 I have been awarded the highest honor for students (the Shen Yuan Medal) at Beihang University.
 - *2024.12*: I will serve as a reviewer for TNNLS.
 - *2024.11*: I will serve as a reviewer for CVPR 2025.
+- *2024.09*: &nbsp;🎉🎉 I have been awarded the National Scholarship.
 - *2024.09*: &nbsp;🎉🎉 a paper on Adversarial Robustness are accepted to NeurIPS 2024.
 - *2024.06*: &nbsp;🎉🎉 Two papers on Adversarial Robustness are accepted to TPAMI 2024.
 - *2023.11*: I will serve as a reviewer for CVPR 2024.
