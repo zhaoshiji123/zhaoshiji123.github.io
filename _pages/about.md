@@ -21,6 +21,8 @@ I am a Ph.D student in the Institute of Artificial Intelligence, Beihang Univers
 
 My research interest includes, LLMs and MLLMs safety, knowledge distillation, adversarial attack, adversarial robustness in machine learning. 
 
+Please feel free to contact me if you are interested in any collaboration.
+
 # 💻 Experience
 - *2022.09 - present*, Ph.D Student, the Institute of Artificial Intelligence, Beihang University (BUAA). 
 - *2021.09 - 2022.07*, M.S. Student, the School of Computer Science and Engineering, Beihang University (BUAA).
