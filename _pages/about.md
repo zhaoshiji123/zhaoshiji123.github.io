@@ -21,7 +21,7 @@ I am a Ph.D student in the Institute of Artificial Intelligence, Beihang Univers
 
 My research interest includes, LLMs and MLLMs safety, knowledge distillation, adversarial attack, adversarial robustness in machine learning. 
 
-Please feel free to contact me if you are interested in any collaboration.
+Please feel free to contact me if you are interested in any collaboration. My e-mail: zhaoshiji123@buaa.edu.cn.
 
 # 💻 Experience
 - *2022.09 - present*, Ph.D Student, the Institute of Artificial Intelligence, Beihang University (BUAA). 
@@ -30,6 +30,8 @@ Please feel free to contact me if you are interested in any collaboration.
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 two papers are accepted to CVPR 2026.
+- *2025.09*: I will serve as a reviewer for ICML 2026 and ECCV 2026.
 - *2025.09*: I will serve as a reviewer for ICLR 2026 and CVPR 2026.
 - *2025.06*: &nbsp;🎉🎉 two papers on MLLMs safety are accepted to ICCV 2025.
 - *2025.04*: I will serve as a reviewer for NeurIPS 2025.
