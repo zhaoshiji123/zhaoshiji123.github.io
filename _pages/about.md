@@ -30,6 +30,7 @@ Please feel free to contact me if you are interested in any collaboration. My e-
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 a paper on infrared adversarial robustness is accepted to IJCV 2026.
 - *2026.02*: &nbsp;🎉🎉 two papers are accepted to CVPR 2026.
 - *2025.09*: I will serve as a reviewer for ICML 2026 and ECCV 2026.
 - *2025.09*: I will serve as a reviewer for ICLR 2026 and CVPR 2026.
