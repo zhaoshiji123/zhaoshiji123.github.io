@@ -50,6 +50,20 @@ Please feel free to contact me if you are interested in any collaboration. My e-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (findings)</div><img src='images/VRSA.jpeg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Knowledge-Guided Adversarial Training for Infrared Object Detection via Thermal Radiation Modeling](((https://arxiv.org/pdf/2603.25170)))
+
+**<u>Shiji Zhao</u>**, Shukun Xiong, Maoxun Yuan, Yao Huang, Ranjie Duan, Qing Guo, Jiansheng Chen, Haibin Duan, Xingxing Wei (Supervisor).
+
+_International Journal of Computer Vision (IJCV), 2026_
+
+📃[**Paper**](https://arxiv.org/pdf/2603.25170)     💾[**Code**](https://github.com/shukunxiong/KGAT)    
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (findings)</div><img src='images/VRSA.jpeg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 [VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack]((https://arxiv.org/abs/2512.05853))
 
 **<u>Shiji Zhao</u>**, Shukun Xiong, Yao Huang, JIN YAN, Zhenyu Wu, Jiyang Guan, Ranjie Duan, Jialing Tao, Hui Xue, Xingxing Wei (Supervisor).
