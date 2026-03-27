@@ -48,7 +48,7 @@ Please feel free to contact me if you are interested in any collaboration. My e-
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (findings)</div><img src='images/VRSA.jpeg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/VRSA.jpeg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Knowledge-Guided Adversarial Training for Infrared Object Detection via Thermal Radiation Modeling](((https://arxiv.org/pdf/2603.25170)))
 
